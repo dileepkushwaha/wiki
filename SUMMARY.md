@@ -1,3 +1,4 @@
 # Table of contents
 
-* [My knowledge Wiki 🌲](README.md)
+* [Economy 💸](README.md)
+* [Investing](investing.md)
